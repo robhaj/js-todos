@@ -13,10 +13,10 @@ Let's start with the basic html boilerplate
   <meta charset="utf-8">
 </head>
 <body>
-<input id="task"><button id="add">Add</button>
-<hr>
-<div id="todos"></div>
-<script src="todo.js"></script>
+  <input id="task"><button id="add">Add</button>
+  <hr>
+  <div id="todos"></div>
+  <script src="todo.js"></script>
 </body>
 </html>
 ```
